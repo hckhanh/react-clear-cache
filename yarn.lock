@@ -3818,7 +3818,7 @@ __metadata:
     gh-pages: 4.0.0
     minimist: 1.2.7
     prettier: 2.7.1
-    rollup: 2.75.7
+    rollup: 2.79.1
     rollup-plugin-cleandir: 2.0.0
     rollup-plugin-peer-deps-external: 2.2.4
     semantic-release: ^19.0.5
@@ -4060,9 +4060,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:2.75.7":
-  version: 2.75.7
-  resolution: "rollup@npm:2.75.7"
+"rollup@npm:2.79.1":
+  version: 2.79.1
+  resolution: "rollup@npm:2.79.1"
   dependencies:
     fsevents: ~2.3.2
   dependenciesMeta:
@@ -4070,7 +4070,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: a6331d46b01062b184efdcb42ce12caf2e1575f989963944534b02f5855f6f3bc239ed0c1a18893572d7695af6d83166f3aef59dbd0365084e1531cb67824674
+  checksum: 6a2bf167b3587d4df709b37d149ad0300692cc5deb510f89ac7bdc77c8738c9546ae3de9322b0968e1ed2b0e984571f5f55aae28fa7de4cfcb1bc5402a4e2be6
   languageName: node
   linkType: hard
 
