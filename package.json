@@ -50,7 +50,7 @@
   "devDependencies": {
     "@rollup/plugin-node-resolve": "13.3.0",
     "@rollup/plugin-typescript": "8.5.0",
-    "@types/react": "18.0.26",
+    "@types/react": "18.0.38",
     "gh-pages": "4.0.0",
     "prettier": "2.8.1",
     "rollup": "2.79.1",
